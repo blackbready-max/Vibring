@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Haptic Sound Pro</string>
+    <string name="accessibility_service_label">Haptic Sound (Детектор вибрации)</string>
+    <string name="accessibility_service_description">Озвучивает физическую вибрацию в играх и тактильный отклик в фоновом режиме.</string>
+</resources>
